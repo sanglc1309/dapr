@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bY48/zOfMIti2dKWfbmxbNQR10CTbvzhmcEq6lY1z7I=",
+  "Source": "Dapr.Application",
+  "BasePath": "_content/Dapr.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
